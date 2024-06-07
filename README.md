@@ -2,6 +2,12 @@
 
 <img src="image.png" width="250" height="300">
 
+### Since the development is still in progress use the following command to run the application
+```bash
+python chatbot_gui.py
+```
+
+
 ### Setting up the environment
 ```bash
 pip install -r requirements.txt
