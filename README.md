@@ -1,6 +1,6 @@
 # Chatbot
 
-![alt text](image.png)
+<img src="image.png" width="250" height="300">
 
 ### Setting up the environment
 ```bash
