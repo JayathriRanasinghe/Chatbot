@@ -1,5 +1,6 @@
 # Chatbot
-a chatbot
+
+![alt text](image.png)
 
 ### Setting up the environment
 ```bash
